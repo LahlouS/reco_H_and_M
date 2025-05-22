@@ -1,0 +1,8 @@
+dataset
+program-v1/weights/model_weights_20250522_234808.npz
+/home/slahlou/Documents/recoGnomon/h-m-eda-first-look.ipynb
+__pycache__/
+*.pyc\nenv/
+*.env
+.DS_Store
+h-m-eda-first-look.ipynb
