@@ -37,7 +37,10 @@ def fetch_available_user_ids():
 
 
 WEIGHTS = {
-	"LSA": 1.0
+	"Base case": 1.0,
+	"AlternativeLeastSquare": 1.0,
+	"Co-purshased score": 1.0,
+	"logistic_regression":1.0
 }
 
 def parse_dict_input(input_text):
